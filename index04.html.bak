@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Experience/Sarin/TVhost/resume</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@500&amp;display=swap"
+
+      rel="stylesheet">
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <!--end heading--> <body>
+    <header class="header"> <a href="#" class="logo">Sarin</a>
+      <nav class="navbar"> <a href="file:///C:/Users/naise/Desktop/215resume/index01.html">HOME</a>
+        <a href="file:///C:/Users/naise/Desktop/215resume/index02.html">ABOUT</a>
+        <a href="file:///C:/Users/naise/Desktop/215resume/index03.html">SKILL</a>
+        <a href="#" class="active">EXPERIENCE</a> </nav>
+    </header>
+    <section class="home">
+      <div class="home-content">
+        <h3> I have an experience of show hosting </h3>
+        <p> I have been the host of show taht i made for work and i really love it and always think about it all time since that.</p>
+      </div>
+      <iframe src="https://www.youtube.com/watch?v=bxqKj5Q_oQ0&amp;t=225s" height="315"
+
+        width="420"> </iframe> </section>
+  <div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        FUN FACT
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+
+
+</div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
+crossorigin="anonymous"></script>
+  </body>
+  <!--end body-->
+</html>
